@@ -1,0 +1,133 @@
+/home/araghura/project/mpi
+Number of threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+num e threads 2
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Total files read: 128
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+num e threads 2
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Num_Par_threads: 4
+Reading time is: 0.87863
+Mapping time is: 0.872896
+Total OMP Time: 0.94966
+Reading time is: 1.25748
+Mapping time is: 1.25177
+Reading time is: 1.28373
+Mapping time is: 1.28154
+Total OMP Time: 1.30019
+Total OMP Time: 1.35318
+Reading time is: 1.39703
+Mapping time is: 1.39658
+Reading time is: 1.45869
+Mapping time is: 1.45772
+Total OMP Time: 1.4734
+Reading time is: 1.48431
+Mapping time is: 1.48436
+Total OMP Time: 1.54934
+Total OMP Time: 1.57332
+Reading time is: 1.78011
+Mapping time is: 1.77566
+Reading time is: 1.80184
+Mapping time is: 1.8959
+Total OMP Time: 1.97574
+Total OMP Time: 2.04223
+Reading time is: 2.48586
+Mapping time is: 2.48587
+Total OMP Time: 2.55397
+Reading time is: 2.58581
+Mapping time is: 2.85849
+Total OMP Time: 2.97173
+Reading time is: 4.24937
+Mapping time is: 4.24348
+Total OMP Time: 4.34989
+Reading time is: 4.64914
+Mapping time is: 4.64917
+Total OMP Time: 4.8323
+Reading time is: 5.08872
+Mapping time is: 5.08874
+Reading time is: 5.19792
+Mapping time is: 5.19794
+Total OMP Time: 5.30215
+Total OMP Time: 5.32435
+Reading time is: 25.4094
+Mapping time is: 25.4033
+Total OMP Time: 25.6127
+Reading time is: 27.4018
+Mapping time is: 27.4018
+Total OMP Time: 27.7734
+Number of Nodes: 16
+Total MPI time: 29.8324
