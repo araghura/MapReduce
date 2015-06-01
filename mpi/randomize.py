@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Apr 30 02:31:03 2015
+Created on Apr 30 2015
 
-@author: Jay Ravi
+@author: Jay Ravi 
+
+Last Modified on May 01 2015
+
+@coauthor: Anantha Raghuraman
+
+
 """
 
 import random
