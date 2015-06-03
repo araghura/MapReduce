@@ -1,8 +1,0 @@
-pg10.txt
-pg11.txt
-pg1342.txt
-pg19942.txt
-pg2542.txt
-pg48561.txt
-pg62.txt
-pg76.txt
