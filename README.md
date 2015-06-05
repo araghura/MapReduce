@@ -5,8 +5,8 @@ Authors: Anantha Raghuraman and Jayakumaran Ravi
 ------------------------------------------------
   
 
-
-# Goal of the Project
+Goal of the Project
+-------------------
 
 1) Read all the words from multiple files and obtain a count of all the unique words.
 
@@ -51,6 +51,7 @@ b) There are three kinds of threads:
 	Note: For each word there is exactly one Reducer thread in the system that handles it. A hash function's output is used to figure out which reducer will reduce a particular word.
 
 c) As each reducer finishes its reduce work, the result for a word is updated in a final key-value pair map (e.g. <"cat", 1000>) and after all of them are done, the map is returned.
+
 
 mapreduce_mpi.cpp
 -----------------
