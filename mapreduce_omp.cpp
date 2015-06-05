@@ -1,3 +1,12 @@
+//Author: Anantha Raghuraman and Jayakumaran Ravi
+//Date: Apr 01, 2015
+//Filename: mapreduce_mpi.cpp
+//Description:
+//Has a function that takes performs a mapreduce operation to get a frequency count on the words in a subset of files 
+//listed in list.txt. The subset is determined by mpi_rank (rank of the calling process) and mpi_size. 
+//Input: It takes 3 inputs. i) Number of threads, ii) mpi_size (no: of processes in the group) and iii) mpi_rank (rank of the calling process)
+//Output: Output of mapreduce. Counts of all the unique words in the read files.
+
 #include "mapreduce_omp.h"
 std::map<std::string,int> mapreduce_omp(int num_threads, int mpi_size, int mpi_rank)
 {

@@ -1,3 +1,14 @@
+//Author: Anantha Raghuraman and Jayakumaran Ravi
+//Date: Apr 01, 2015
+//Filename: mapreduce_omp.cpp
+//Description:
+//Main function that performs mapreduce to count the number of occurences of each unique word in a list of files
+//listed in list.txt. Every process here calls mapreduce_omp.cpp and divides the files amongst the processes. The function finally prints the output 
+//(count of each uniqe word) onto the stdout.
+
+//Input: Nothing
+//Output: 0 if sucessful, 1 otherwise
+
 #include "mapreduce_omp.h"
 #include <mpi.h>
 #include <cstring>
